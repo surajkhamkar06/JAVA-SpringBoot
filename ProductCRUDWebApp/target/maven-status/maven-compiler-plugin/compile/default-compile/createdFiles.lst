@@ -1,0 +1,4 @@
+com\suraj\PrdWebApp\Controller\ProductController.class
+com\suraj\PrdWebApp\PrdWebAppApplication.class
+Model\Product.class
+com\suraj\PrdWebApp\Service\ProductService.class
